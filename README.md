@@ -96,3 +96,5 @@ En donde se borra todo lo del `certificate-authority-data:`, y se reemplaza por 
 >**NOTA** Es de mencionar que el puerto 6443 es el por defecto dell kubespray y de los cluster, para poder que las maquinas se vean tienen que tener pin y ademas que estos puertos esten abiertos sobre la plataforma en la cual esten montados, para estas pruebas se realizo en la dashboard de GCP (Google Cloud).
 
 Por ultimo se realiza un `kubectl get pods -A` para probar su funcionamiento
+
+[Cluster-Usuario](imagen_2022-12-07_010506884.png)
