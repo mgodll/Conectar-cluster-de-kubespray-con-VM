@@ -97,4 +97,4 @@ En donde se borra todo lo del `certificate-authority-data:`, y se reemplaza por 
 
 Por ultimo se realiza un `kubectl get pods -A` para probar su funcionamiento
 
-![Cluster-Usuario](imagen_2022-12-07_010506884.png)
+![](imagen_2022-12-07_010506884.png)
